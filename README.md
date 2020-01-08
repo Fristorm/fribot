@@ -1,0 +1,2 @@
+# fribot
+discord bot
